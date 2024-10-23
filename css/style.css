@@ -1,3 +1,12 @@
 #newBook {
     font-weight: 600;
 }
+
+
+
+#line {
+    display: inline-block;
+    width: 100%;
+    border: 1px solid lightgrey;
+    margin: 40px 10px 20px;
+}
